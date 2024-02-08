@@ -1,7 +1,7 @@
 # swastikaa.github.io
 ## **Kanban History: From 1950s Factory Floor to Today’s Remote Teams**
 
-From auto manufacturing in the 1950s to the modern digital workplace, Kanban’s evolution holds valuable lessons for today’s distributed project teams.
+From auto manufacturing in the 1950s to the modern digital workplace, Kanban’s evolution holds valuable lessons for today’s distributed project teams.![alt_text]9https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fblog_post_page%2Fcontent%2Fcover_image_file%2Fcover_image%2F1308430%2Fregular_1708x683_Untitled-e6273c852da29cc59c184ec8e53a8134.png)
 
 Work is constantly changing. Projects multiply across the business and become programs. Programs get grouped into portfolios, and [management practices](https://www.toptal.com/project-managers/scaled-agile-framework/safe-best-practices) become increasingly complex as organizations grow and begin to operate at scale. Even something as simple as an office presence is no longer a given.
 
