@@ -9,4 +9,5 @@ Work is constantly changing. Projects multiply across the business and become pr
 
 It’s easy to see why Kanban has become an essential project management tool. As a lightweight and adaptable workflow method, it offers fit-for-purpose solutions that I’ve applied on projects across diverse industries, ranging from finance to energy to consumer markets. Kanban is capable of handling workflows on its own, but is particularly suited to being hybridized with other frameworks, scaling to an enterprise level, or even serving as the bridge to take organizations from Waterfall to Agile processes.
 
-![alt text]([https://www.toptal.com/project-managers/project-management-consultant/kanban-remote-teams](https://bs-uploads.toptal.io/blackfish-uploads/public-files/Untitled-c1c5294701185de6bfc2ad3e915e4861.png)https://bs-uploads.toptal.io/blackfish-uploads/public-files/Untitled-c1c5294701185de6bfc2ad3e915e4861.png)
+![alt_text](https://bs-uploads.toptal.io/blackfish-uploads/public-files/Untitled-c1c5294701185de6bfc2ad3e915e4861.png)
+
