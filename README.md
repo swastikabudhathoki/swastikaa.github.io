@@ -2,7 +2,7 @@
 ## **Bank Marketing Campaign: Data-Driven Analysis**
 ### Prepared by: Swastika Budhathoki (207025) & Swornika Chhetri (207028)
 <br>
-Marketing selling campaigns constitute a typical strategy to enhance business.[Moro, 2014](https://core.ac.uk/download/pdf/55631291.pdf)  
+Marketing selling campaigns constitute a typical strategy to enhance business.[Moro,2014](https://core.ac.uk/download/pdf/55631291.pdf)  
 
 <img width="622" alt="Screenshot 2024-03-07 at 5 38 27 PM" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/992a8f28-31bd-48cd-be43-9cba622dee96">
 
