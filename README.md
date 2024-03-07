@@ -2,10 +2,18 @@
 ## **Bank Marketing Campaign: Data-Driven Analysis**
 ### <h3>Prepared by:Swastika Budhathoki (207025) & Swornika Chhetri (207028)</h3>
 <br>
-Marketing selling campaigns constitute a typical strategy to enhance business.[Moro,2014]. The dataset unveil the relationship between direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit or not.
+Marketing selling campaigns constitute a typical strategy to enhance business (Moro,2014). The dataset unveil the relationship between direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit or not.
 <br>
 <br>
+Banks Customer Data comprises of age
 
+age (numeric)
+
+job : type of job (categorical: 'admin.','blue-collar','entrepreneur','housemaid','management','retired','self-employed','services','student','technician','unemployed','unknown')
+marital : marital status (categorical: 'divorced','married','single','unknown'; note: 'divorced' means divorced or widowed)
+education (categorical: 'tertiary','primary','secondary')
+housing: has housing loan? (categorical: 'no','yes','unknown')
+loan: has personal loan? (categorical: 'no','yes','unknown')
 
 
 
