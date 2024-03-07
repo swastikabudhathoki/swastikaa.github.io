@@ -1,7 +1,10 @@
 # Pair Project
-## **Bank Marketing Strategies: Data-Driven Analysis**
+## **Bank Marketing Campaign: Data-Driven Analysis**
+### Prepared by: Swastika Budhathoki (207025) & Swornika Chhetri (207028)
+<br>
+Marketing selling campaigns constitute a typical strategy to enhance business.[Moro, 2014](https://core.ac.uk/download/pdf/55631291.pdf)  
 
-From auto manufacturing in the 1950s to the modern digital workplace, Kanban’s evolution holds valuable lessons for today’s distributed project teams.![alt_text]<img width="622" alt="Screenshot 2024-03-07 at 5 38 27 PM" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/992a8f28-31bd-48cd-be43-9cba622dee96">
+<img width="622" alt="Screenshot 2024-03-07 at 5 38 27 PM" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/992a8f28-31bd-48cd-be43-9cba622dee96">
 
 Work is constantly changing. Projects multiply across the business and become programs. Programs get grouped into portfolios, and [management practices](https://www.toptal.com/project-managers/scaled-agile-framework/safe-best-practices) become increasingly complex as organizations grow and begin to operate at scale. Even something as simple as an office presence is no longer a given.
 
