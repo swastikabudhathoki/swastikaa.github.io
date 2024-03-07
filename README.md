@@ -5,15 +5,18 @@
 Marketing selling campaigns constitute a typical strategy to enhance business (Moro,2014). The dataset unveil the relationship between direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit or not.
 <br>
 <br>
-Banks Customer Data comprises of age
+#### <h4>Data Distribution</h4>
+Banks Customer Data comprises of age i.e. numeric value,job distribution, housing i.e. whether the customer has housing loan or not, marital status categorized in divorced, married and single, default, loan i.e. whether the client has personal loan or not, education categorized into tertiary, primary, secondary and unknown. 
 <img width="757" alt="Screenshot 2024-03-07 at 6 13 07 PM" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/4218ab45-16ec-4fa8-8736-a9c003496893">
+<br>
+The data 
 Job Distribution:
 <img width="311" alt="Screenshot 2024-03-07 at 6 13 21 PM" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/89d6f198-67d0-44f3-a9ad-93baf9df1dc3">
-Deposit
-<img width="268" alt="Screenshot 2024-03-07 at 6 13 32 PM" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/ed417aaa-24ac-4b1a-9b97-78762c973e12">
 Housing
-<img width="326" alt="Screenshot 2024-03-07 at 6 13 36 PM" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/468e6e64-32ba-430b-8e3c-ce2a82661d23">
+<img width="268" alt="Screenshot 2024-03-07 at 6 13 32 PM" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/ed417aaa-24ac-4b1a-9b97-78762c973e12">
 Loan
+<img width="326" alt="Screenshot 2024-03-07 at 6 13 36 PM" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/468e6e64-32ba-430b-8e3c-ce2a82661d23">
+Deposit
 job : type of job (categorical: 'admin.','blue-collar','entrepreneur','housemaid','management','retired','self-employed','services','student','technician','unemployed','unknown')
 marital : marital status (categorical: 'divorced','married','single','unknown'; note: 'divorced' means divorced or widowed)
 education (categorical: 'tertiary','primary','secondary')
