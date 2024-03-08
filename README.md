@@ -1,5 +1,5 @@
 # Pair Project
-## **Bank Marketing Campaign: Data-Driven Analysis**
+## **Bank Marketing Campaign: Data Driven Analysis**
 ### <h3>Prepared by:Swastika Budhathoki (207025) & Swornika Chhetri (207028)</h3>
 <br>
 Marketing selling campaigns constitute a typical strategy to enhance business (Moro,2014). The dataset unveil the relationship between direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit or not.
@@ -11,9 +11,9 @@ The dataset provided is related to demographic and financial attributes of indiv
   Age is a numeric variable indicating the age of the individual. It serves as a continuous measure and can provide valuable insights into age-related trends and behaviors. Job type encompasses a variety of occupations, ranging from administrative roles to entrepreneurship and manual labor. This categorical variable sheds light on the employment status and professional diversity within the dataset. Marital status reflects the relationship status of individuals, categorizing them as either married, single, or divorced. This attribute offers insights into family structures and potentially influences financial decision-making processes. 
   
   <p>Education level categorizes individuals based on their educational attainment, distinguishing between tertiary, primary, and secondary education. Education often correlates with income levels and socioeconomic status, impacting financial behaviors and outcomes. Default, housing loan, and personal loan statuses indicate whether individuals have defaulted on credit payments or have housing and personal loans, respectively. These categorical variables are crucial indicators of financial health and risk assessment. </p>
-  
-<p>
-  Also, the dataset contains additional attributes related to communication and timing aspects of contacts made during a marketing campaign or similar outreach efforts. These attributes include contact communication type, last contact month of the year, last contact day of the week, and the duration of the last contact in seconds.
+<p><b> Goal of the study: 
+  <br><b>To find out which factor influence the long-term deposit subscription in Portuguese Banking Institution</b>
+<br>To find out the banking strategies based on the outcome</b></p>
 <br>
 <h4>EXPLORATORY DATA ANALYSIS</h4>
 <img width="549" alt="Job" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/d99fdc62-1aca-4ab6-a346-b08657bb2975">
