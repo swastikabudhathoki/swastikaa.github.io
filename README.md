@@ -41,14 +41,16 @@ The dataset provided is related to demographic and financial attributes of indiv
 <p>
   <img width="553" alt="Contact" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/e4d512bf-5934-4910-b0cc-a62382e6ef7c">
 <img width="1258" alt="Contact and Subscription" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/4ab82ac7-6daf-4edb-8cbf-6878c3eba012">
-<li>Cellular communication has the highest usage at <b>72.05%</b>.</li>
-<li>Subscribers through Cellular communication stand at <b>32.91%</b>, indicating a preference for this mode</li>
-</p>
+  <ol>
+  <li>Cellular communication has the highest usage at <b>72.05%</b>.</li>
+  <li>Subscribers through Cellular communication stand at <b>32.91%</b>, indicating a preference for this mode</li>
+</ol></p>
 <p>
   <img width="576" alt="Housing" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/b8a58edc-a360-4c81-a1f3-86a96d424590">
 <img width="1271" alt="Housing and Subscription" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/eb162e33-8e1a-40bd-bcfa-69981d153d37">
-<li>Housing: 47.31% have a housing loan, with 29.98% subscribing to long-term deposits.</li>
-</p>
+  <ol>
+  <li>Housing: 47.31% have a housing loan, with 29.98% subscribing to long-term deposits.</li>
+</ol></p>
 <p>
 <img width="490" alt="Loan" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/6dff4975-3ffc-46e8-a9e5-5eae07513bbe">
 <img width="1293" alt="Loan and Subscription" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/e6d5dc2c-dd3a-4f45-8013-a30cee7f5b26">
@@ -56,5 +58,16 @@ The dataset provided is related to demographic and financial attributes of indiv
 </p>
 <br>
 <h4>Conclusion</h4>
+<img width="1184" alt="Screenshot 2024-03-08 at 12 38 48 PM" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/b28cbcfa-91a6-4de1-b0a2-0ae9b51b69aa">
+<p>To boost long-term subscription rates and enhance customer engagement, banks can implement strategic initiatives. Firstly, they should focus on understanding their customers better by segmenting them based on their different traits and behaviors. This helps in creating personalized marketing messages and services that match the needs of various customer groups.</p>
 
+<p>Secondly, with more people using mobile phones, especially for communication, banks need to prioritize digital platforms, like mobile apps and messaging services, to connect with customers easily.</p>
+
+<p>Investing in educational programs about finances is also crucial. By helping customers understand the importance of long-term financial planning, banks can empower them to make smarter decisions about their money. Tailoring these programs to fit the education levels of their customers, like focusing on secondary education, can make them more effective.</p>
+
+<p> Integrating deposit products with loans is another strategy. By offering attractive deals and benefits for customers who use both services, banks can encourage long-term commitment and loyalty.</p>
+
+<p>Lastly, banks should continually analyze feedback from customers and keep an eye on market trends. This helps them stay responsive to changing needs and preferences, ensuring their strategies remain effective over time.</p>
+
+<p>By embracing these strategies, banks can improve their long-term subscription rates, strengthen customer relationships, and thrive in the competitive financial industry.</p>
 
