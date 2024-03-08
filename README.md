@@ -1,6 +1,6 @@
 # Pair Project
 ## **Bank Marketing Campaign: Data Driven Analysis**
-### <h3>Prepared by:Swastika Budhathoki (207025) & Swornika Chhetri (207028)</h3>
+### Prepared by:Swastika Budhathoki (207025) & Swornika Chhetri (207028)
 <br>
 Marketing selling campaigns constitute a typical strategy to enhance business (Moro,2014). The dataset unveil the relationship between direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit or not.
 <br>
