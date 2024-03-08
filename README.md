@@ -12,14 +12,12 @@ The dataset provided is related to demographic and financial attributes of indiv
   
   <p>Education level categorizes individuals based on their educational attainment, distinguishing between tertiary, primary, and secondary education. Education often correlates with income levels and socioeconomic status, impacting financial behaviors and outcomes. Default, housing loan, and personal loan statuses indicate whether individuals have defaulted on credit payments or have housing and personal loans, respectively. These categorical variables are crucial indicators of financial health and risk assessment. </p>
 <p><b> Goal of the study: 
-  <br><b>To find out which factor influence the long-term deposit subscription in Portuguese Banking Institution</b>
-<br>To find out the banking strategies based on the outcome</b></p>
-<br>
+  <br><b>a. To find out which factor influence the long-term deposit subscription in Portuguese Banking Institution</b>
+<br>b.To find out the banking strategies based on the outcome</b></p>
 <h4>EXPLORATORY DATA ANALYSIS</h4>
 <img width="549" alt="Job" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/d99fdc62-1aca-4ab6-a346-b08657bb2975">
 <img width="1277" alt="Job and Subscription" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/aefc0bc4-24b7-4d5d-8dd9-d0822a1a9a3e">
 <br>
-
 <ol>
   <li><b>Management, Blue-collar, Technician, Admin, Services, and Others are the highest job categories</b></li>
   <li>Blue-collar clients have the highest subscription rate at 11.07%, followed by Management at 11.33%.</li>
@@ -34,6 +32,7 @@ The dataset provided is related to demographic and financial attributes of indiv
 <p>
 <img width="518" alt="Education" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/f8e9a967-fd20-4406-b023-398310251b9d">
 <img width="1278" alt="Education and Subscription" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/bf71ea79-5bd5-49fc-ac62-11545d2a3ee7">
+  <ol>
   <li>Secondary education level dominates at <b>49.06%</b>.</li>
   <li>Subscribers from Secondary education level are at <b>27.11%</b>.</li>
 </ol>
