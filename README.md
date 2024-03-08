@@ -8,12 +8,12 @@ Marketing selling campaigns constitute a typical strategy to enhance business (M
 The dataset provided is related to demographic and financial attributes of individuals, including their age, job type, marital status, education level, default status, housing loan status, and personal loan status of Portuguese. Each attribute represents categorical data, providing insight into various aspects of an individual's profile.
 <br>
 <p>
-  Age is a numeric variable indicating the age of the individual. It serves as a continuous measure and can provide valuable insights into age-related trends and behaviors. Job type encompasses a variety of occupations, ranging from administrative roles to entrepreneurship and manual labor. This categorical variable sheds light on the employment status and professional diversity within the dataset. Marital status reflects the relationship status of individuals, categorizing them as either married, single, or divorced. This attribute offers insights into family structures and potentially influences financial decision-making processes. 
+  Age is a numeric variable indicating the age of the individual. It serves as a continuous measure and can provide valuable insights into age-related trends and behaviors. Job type encompasses a variety of occupations, ranging from administrative roles to entrepreneurship and manual labor. This categorical variable sheds light on the employment status and professional diversity within the dataset. Marital status reflects the relationship status of individuals, categorizing them as either married, single, or divorced. This attribute offers insights into family structures and potentially influences financial decision-making processes.</p>
   
   <p>Education level categorizes individuals based on their educational attainment, distinguishing between tertiary, primary, and secondary education. Education often correlates with income levels and socioeconomic status, impacting financial behaviors and outcomes. Default, housing loan, and personal loan statuses indicate whether individuals have defaulted on credit payments or have housing and personal loans, respectively. These categorical variables are crucial indicators of financial health and risk assessment. </p>
 <p><b> Goal of the study: 
-  <br><b>a. To find out which factor influence the long-term deposit subscription in Portuguese Banking Institution</b>
-<br>b.To find out the banking strategies based on the outcome</b></p>
+  <br><b>a. To find out which factor influence the long-term deposit subscription in Portuguese Banking Institution.</b>
+<br>b.To find out the banking strategies based on the outcome.</b></p>
 <h4>EXPLORATORY DATA ANALYSIS</h4>
 <img width="549" alt="Job" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/d99fdc62-1aca-4ab6-a346-b08657bb2975">
 <img width="1277" alt="Job and Subscription" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/aefc0bc4-24b7-4d5d-8dd9-d0822a1a9a3e">
