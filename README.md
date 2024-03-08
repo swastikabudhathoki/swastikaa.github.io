@@ -18,6 +18,21 @@ This figure demonstrates that 56.7% has housing loan among the clients and 43.3%
 This figure reveals that 1.51% of clients credit is in default and the remaining aren't. This showcases that the customers tend to pay their credit on time. 
 <br>
 <h4>Contacts of the campaign</h4>
+<img width="525" alt="Screenshot 2024-03-08 at 8 53 11 AM" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/1544f5f0-2826-4c7f-b577-76d51bc0a358">
+(Contact)
 
+<img width="739" alt="Screenshot 2024-03-08 at 8 54 23 AM" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/64b56f74-c38a-468b-98e6-e9abb3d2e6a8">
+(Month)
+
+<img width="373" alt="Screenshot 2024-03-08 at 9 00 18 AM" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/4c2bfd10-cd85-433d-a542-2f014cc73b5f">
+(Job Listing)
+
+<img width="699" alt="Screenshot 2024-03-08 at 9 00 46 AM" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/87687acf-f33f-4d77-b56b-c87e4dc8a13f">
+(Week)
+
+
+<img width="726" alt="Screenshot 2024-03-08 at 9 00 53 AM" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/ecf673d0-9c2c-4d63-a257-8a8e06c1bd58">
+(Duration)
+<h4> Conclusion </h4>
 <img width="622" alt="Screenshot 2024-03-07 at 5 38 27 PM" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/992a8f28-31bd-48cd-be43-9cba622dee96">
 
