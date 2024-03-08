@@ -17,7 +17,7 @@ The dataset provided is related to demographic and financial attributes of indiv
 <br><img width="549" alt="Job" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/d99fdc62-1aca-4ab6-a346-b08657bb2975">
 <br><img width="1277" alt="Job and Subscription" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/aefc0bc4-24b7-4d5d-8dd9-d0822a1a9a3e">
 <br>
-<p>The job distribution among clients reflects a diverse spectrum, showcasing Management, Blue-collar, Technician, Admin, Services, and Others as the primary categories. Notably, Blue-collar clients demonstrate a relatively higher subscription rate for long-term deposits at 11.07%, contrasting with the 11.33% subscription rate among Management clients, despite their larger representation at 22.99%.</p>
+<p>The job distribution among clients reflects a diverse job fields, showcasing Management, Blue-collar, Technician, Admin, Services, and Others as the primary categories. Notably, Blue-collar clients demonstrate a relatively higher subscription rate for long-term deposits at 11.07%, contrasting with the 11.33% subscription rate among Management clients, despite their larger representation at 22.99%.</p>
 <p>
 <br> MARITAL STATUS
 <br><img width="587" alt="Marital Status" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/0351289b-1d1d-4f2d-a46d-c245f2ee0bdf">
@@ -28,7 +28,7 @@ The dataset provided is related to demographic and financial attributes of indiv
   <br> EDUCATION
 <br><img width="518" alt="Education" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/f8e9a967-fd20-4406-b023-398310251b9d">
 <br><img width="1278" alt="Education and Subscription" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/bf71ea79-5bd5-49fc-ac62-11545d2a3ee7">
-  <p>Education levels vary considerably, with Secondary education dominating at 49.06%, followed by Tertiary at 33.05%, Primary at 13.44%, and Unknown at 4.45%. Intriguingly, clients with Primary education exhibit a relatively higher subscription rate for long-term deposits at 8.14%, surpassing the 27.11% rate among those with Secondary education.</p>
+  <p>Education levels vary considerably, with Secondary education dominating at 49.06%, followed by Tertiary at 33.05%, Primary at 13.44%, and Unknown at 4.45%. Suprisingly, clients with Primary education exhibit a relatively higher subscription rate for long-term deposits at 8.14%, surpassing the 27.11% rate among those with Secondary education.</p>
 </p>
 <p>
   <br> CONTACT
