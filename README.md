@@ -14,8 +14,7 @@ The dataset provided is related to demographic and financial attributes of indiv
   Also, the dataset contains additional attributes related to communication and timing aspects of contacts made during a marketing campaign or similar outreach efforts. These attributes include contact communication type, last contact month of the year, last contact day of the week, and the duration of the last contact in seconds.
 <br>
 <h4>EXPLORATORY DATA ANALYSIS</h4>
-<br> <h5>Univariate Analysis</h5>
-<img width="757" alt="Screenshot 2024-03-07 at 6 13 07 PM" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/12
+<h5>Univariate Analysis</h5>
 <img width="373" alt="Screenshot 2024-03-08 at 9 00 18 AM" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/4c2bfd10-cd85-433d-a542-2f014cc73b5f">
 (Job)
 <br>
