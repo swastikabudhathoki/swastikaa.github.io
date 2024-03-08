@@ -38,17 +38,23 @@ The dataset provided is related to demographic and financial attributes of indiv
   <li>Subscribers from Secondary education level are at <b>27.11%</b>.</li>
 </ol>
 </p>
+<p>
   <img width="553" alt="Contact" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/e4d512bf-5934-4910-b0cc-a62382e6ef7c">
 <img width="1258" alt="Contact and Subscription" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/4ab82ac7-6daf-4edb-8cbf-6878c3eba012">
-<img width="576" alt="Housing" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/b8a58edc-a360-4c81-a1f3-86a96d424590">
+<li>Cellular communication has the highest usage at <b>72.05%</b>.</li>
+<li>Subscribers through Cellular communication stand at <b>32.91%</b>, indicating a preference for this mode</li>
+</p>
+<p>
+  <img width="576" alt="Housing" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/b8a58edc-a360-4c81-a1f3-86a96d424590">
 <img width="1271" alt="Housing and Subscription" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/eb162e33-8e1a-40bd-bcfa-69981d153d37">
+<li>Housing: 47.31% have a housing loan, with 29.98% subscribing to long-term deposits.</li>
+</p>
+<p>
 <img width="490" alt="Loan" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/6dff4975-3ffc-46e8-a9e5-5eae07513bbe">
 <img width="1293" alt="Loan and Subscription" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/e6d5dc2c-dd3a-4f45-8013-a30cee7f5b26">
+  <li> Loan: <b>13.08%</b> have a personal loan, with <b>8.74% </b> subscribing to long-term deposits.</li>
+</p>
 <br>
-<br>
-  Contact communication type categorizes the mode of communication used during the contact, distinguishing between cellular, telephone, and unknown methods. This categorical variable provides insights into the preferred channels of communication and may influence the effectiveness of outreach strategies.The last contact month of the year and day of the week capture the timing of the last contact made with individuals. These categorical variables offer information regarding seasonal trends, campaign scheduling, and day-of-week effects on contact outcomes. The duration of the last contact, measured in seconds, is a numeric variable that represents the length of the interaction between the contact initiator and the individual contacted. It's worth noting that this attribute significantly impacts the outcome target, where a duration of 0 typically results in a negative outcome (e.g., 'no' response). However, its predictive value may be limited due to the inherent nature of the data collection process, where the duration is only known after the call has ended.
-  
 <h4>Conclusion</h4>
-<img width="622" alt="Screenshot 2024-03-07 at 5 38 27 PM" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/992a8f28-31bd-48cd-be43-9cba622dee96">
-Sum of balance and job
+
 
