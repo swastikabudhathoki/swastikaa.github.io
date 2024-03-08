@@ -24,11 +24,21 @@ The dataset provided is related to demographic and financial attributes of indiv
   <li><b>Management, Blue-collar, Technician, Admin, Services, and Others are the highest job categories</b></li>
   <li>Blue-collar clients have the highest subscription rate at 11.07%, followed by Management at 11.33%.</li>
 </ol>
+<p>
 <img width="587" alt="Marital Status" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/0351289b-1d1d-4f2d-a46d-c245f2ee0bdf">
 <img width="1263" alt="Marital Status and Subscription" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/cb85b6b2-c4ce-4497-a83b-f181d74f1619">
+<ol>
+  <li><b>Married</b> clients form the majority at 56.90%, followed by Single at 31.52%.</li>
+  <li>Among married clients, <b>32.22%</b> subscribe, while among singles and divorced, the subscription rates are <b>14.39%</b> and <b>6.01%</b> respectively</li>
+</ol> </p>
+<p>
 <img width="518" alt="Education" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/f8e9a967-fd20-4406-b023-398310251b9d">
 <img width="1278" alt="Education and Subscription" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/bf71ea79-5bd5-49fc-ac62-11545d2a3ee7">
-<img width="553" alt="Contact" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/e4d512bf-5934-4910-b0cc-a62382e6ef7c">
+  <li>Secondary education level dominates at <b>49.06%</b>.</li>
+  <li>Subscribers from Secondary education level are at <b>27.11%</b>.</li>
+</ol>
+</p>
+  <img width="553" alt="Contact" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/e4d512bf-5934-4910-b0cc-a62382e6ef7c">
 <img width="1258" alt="Contact and Subscription" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/4ab82ac7-6daf-4edb-8cbf-6878c3eba012">
 <img width="576" alt="Housing" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/b8a58edc-a360-4c81-a1f3-86a96d424590">
 <img width="1271" alt="Housing and Subscription" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/eb162e33-8e1a-40bd-bcfa-69981d153d37">
