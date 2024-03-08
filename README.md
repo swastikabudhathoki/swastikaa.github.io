@@ -21,7 +21,7 @@ The dataset provided is related to demographic and financial attributes of indiv
 <br>
 
 <ol>
-  <li>**Management, Blue-collar, Technician, Admin, Services, and Others are the highest job categories**</li>
+  <li><b>Management, Blue-collar, Technician, Admin, Services, and Others are the highest job categories</b></li>
   <li>Blue-collar clients have the highest subscription rate at 11.07%, followed by Management at 11.33%.</li>
 </ol>
 <img width="587" alt="Marital Status" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/0351289b-1d1d-4f2d-a46d-c245f2ee0bdf">
