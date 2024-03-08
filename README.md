@@ -16,11 +16,13 @@ The dataset provided is related to demographic and financial attributes of indiv
 <h4>EXPLORATORY DATA ANALYSIS</h4>
 <h5>Univariate Analysis</h5>
 <img width="373" alt="Screenshot 2024-03-08 at 9 00 18 AM" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/4c2bfd10-cd85-433d-a542-2f014cc73b5f">
-(Job)
+<img width="757" alt="Screenshot 2024-03-07 at 6 13 07 PM" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/6356e936-f513-4a5b-a146-10545eb066fc">
+<br>
 <br>
 <img width="311" alt="Screenshot 2024-03-07 at 6 13 21 PM" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/89d6f198-67d0-44f3-a9ad-93baf9df1dc3">
 <img width="268" alt="Screenshot 2024-03-07 at 6 13 32 PM" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/ed417aaa-24ac-4b1a-9b97-78762c973e12">
 Housing Loan/Personal Loan
+<br>
 <br>
 <img width="541" alt="Screenshot 2024-03-08 at 8 47 59 AM" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/51166bc4-2d6b-45d8-9a47-dabaa5da1a46">
 Default
