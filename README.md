@@ -17,7 +17,7 @@ This figure demonstrates that 56.7% has housing loan among the clients and 43.3%
 <img width="541" alt="Screenshot 2024-03-08 at 8 47 59 AM" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/51166bc4-2d6b-45d8-9a47-dabaa5da1a46">
 This figure reveals that 1.51% of clients credit is in default and the remaining aren't. This showcases that the customers tend to pay their credit on time. 
 <br>
-<h5>Contacts of the campaign</h5>
+<h4>Contacts of the campaign</h4>
 
 <img width="622" alt="Screenshot 2024-03-07 at 5 38 27 PM" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/992a8f28-31bd-48cd-be43-9cba622dee96">
 
