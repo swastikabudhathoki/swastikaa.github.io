@@ -16,29 +16,18 @@ The dataset provided is related to demographic and financial attributes of indiv
   Also, the dataset contains additional attributes related to communication and timing aspects of contacts made during a marketing campaign or similar outreach efforts. These attributes include contact communication type, last contact month of the year, last contact day of the week, and the duration of the last contact in seconds.
 <br>
 <h4>EXPLORATORY DATA ANALYSIS</h4>
-
-<img width="757" alt="Job distribution" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/c58c4dfb-ec89-4609-86ef-44c1a44fb58d">
-<img width="626" alt="Deposit and Job" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/feedac15-494f-4503-a416-dd333a2b4002">
-
-<img width="525" alt="Contact" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/2f595147-aefd-4c8e-9642-c1b8ac8a4005">
-<img width="585" alt="Contact and Deposit" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/0d6ca03d-8238-4417-a4a1-61a41796ab91">
-
-<img width="478" alt="Marital Status" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/9c5135ec-e9ed-47b0-8694-f9eedbb01f63">
-<img width="536" alt="Deposit and Marital Status" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/ed4a6fcd-0820-4d44-9335-e13faae643ba">
-
-<img width="486" alt="Education" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/8c88f2d2-d530-410d-baec-8640038c118d">
-<img width="535" alt="Education and Deposit" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/1885e266-1a45-4724-b94f-a60650fbc181">
-<br>
-<br>
-<img width="311" alt="Screenshot 2024-03-07 at 6 13 21 PM" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/89d6f198-67d0-44f3-a9ad-93baf9df1dc3">
-<img width="268" alt="Screenshot 2024-03-07 at 6 13 32 PM" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/ed417aaa-24ac-4b1a-9b97-78762c973e12">
-Housing Loan/Personal Loan
-<img width="538" alt="Housing and Deposit" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/e9ba80ed-2a72-4ac5-9753-31404cb229fd">
-<img width="540" alt="Loan and Deposit" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/fbb2d5b1-baa5-4fd9-8925-e4214ea33f09">
-
-<img width="441" alt="Default " src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/92401c83-7ee1-446f-9598-9dbff64eb39c">
-<img width="536" alt="Default and Depost" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/460f7940-d925-464d-bc94-e7c5da482131">
-
+<img width="549" alt="Job" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/d99fdc62-1aca-4ab6-a346-b08657bb2975">
+<img width="1277" alt="Job and Subscription" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/aefc0bc4-24b7-4d5d-8dd9-d0822a1a9a3e">
+<img width="587" alt="Marital Status" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/0351289b-1d1d-4f2d-a46d-c245f2ee0bdf">
+<img width="1263" alt="Marital Status and Subscription" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/cb85b6b2-c4ce-4497-a83b-f181d74f1619">
+<img width="518" alt="Education" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/f8e9a967-fd20-4406-b023-398310251b9d">
+<img width="1278" alt="Education and Subscription" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/bf71ea79-5bd5-49fc-ac62-11545d2a3ee7">
+<img width="553" alt="Contact" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/e4d512bf-5934-4910-b0cc-a62382e6ef7c">
+<img width="1258" alt="Contact and Subscription" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/4ab82ac7-6daf-4edb-8cbf-6878c3eba012">
+<img width="576" alt="Housing" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/b8a58edc-a360-4c81-a1f3-86a96d424590">
+<img width="1271" alt="Housing and Subscription" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/eb162e33-8e1a-40bd-bcfa-69981d153d37">
+<img width="490" alt="Loan" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/6dff4975-3ffc-46e8-a9e5-5eae07513bbe">
+<img width="1293" alt="Loan and Subscription" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/e6d5dc2c-dd3a-4f45-8013-a30cee7f5b26">
 <br>
 <br>
   Contact communication type categorizes the mode of communication used during the contact, distinguishing between cellular, telephone, and unknown methods. This categorical variable provides insights into the preferred channels of communication and may influence the effectiveness of outreach strategies.The last contact month of the year and day of the week capture the timing of the last contact made with individuals. These categorical variables offer information regarding seasonal trends, campaign scheduling, and day-of-week effects on contact outcomes. The duration of the last contact, measured in seconds, is a numeric variable that represents the length of the interaction between the contact initiator and the individual contacted. It's worth noting that this attribute significantly impacts the outcome target, where a duration of 0 typically results in a negative outcome (e.g., 'no' response). However, its predictive value may be limited due to the inherent nature of the data collection process, where the duration is only known after the call has ended.
