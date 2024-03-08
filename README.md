@@ -18,6 +18,12 @@ The dataset provided is related to demographic and financial attributes of indiv
 <h4>EXPLORATORY DATA ANALYSIS</h4>
 <img width="549" alt="Job" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/d99fdc62-1aca-4ab6-a346-b08657bb2975">
 <img width="1277" alt="Job and Subscription" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/aefc0bc4-24b7-4d5d-8dd9-d0822a1a9a3e">
+<br>
+
+<ol>
+  <li>**Management, Blue-collar, Technician, Admin, Services, and Others are the highest job categories**</li>
+  <li>Blue-collar clients have the highest subscription rate at 11.07%, followed by Management at 11.33%.</li>
+</ol>
 <img width="587" alt="Marital Status" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/0351289b-1d1d-4f2d-a46d-c245f2ee0bdf">
 <img width="1263" alt="Marital Status and Subscription" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/cb85b6b2-c4ce-4497-a83b-f181d74f1619">
 <img width="518" alt="Education" src="https://github.com/swastikabudhathoki/swastikaa.github.io/assets/123391402/f8e9a967-fd20-4406-b023-398310251b9d">
